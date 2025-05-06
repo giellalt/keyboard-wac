@@ -1,0 +1,9 @@
+template = ""
+rev_id = 24
+template_sha = "fa5dce2cd5d6d7fc9de7ee0e9b9073e4481f359c"
+
+[replacements]
+__LICENSE__ = "LGPLv3"
+__UND2C__ = "wac"
+__UNDEFINED__ = "Wasco-Wishram"
+__UND__ = "wac"
